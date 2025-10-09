@@ -46,7 +46,6 @@ export default function App() {
           </Badge>
         </div>
       </div>
-
       {/* Map Section */}
       <div className="relative h-64 bg-blue-50 overflow-hidden">
         <ImageWithFallback
